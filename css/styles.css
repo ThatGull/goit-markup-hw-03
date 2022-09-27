@@ -3,6 +3,9 @@
     font-family: 'Roboto';
     letter-spacing: 0.03em;
   }
+.header {
+    border-bottom: 1px solid #ECECEC;;
+}
 ul {
     list-style: none;
 }
@@ -22,7 +25,7 @@ a {
     color: black;
     align-items: center;
     text-align: center;
-    padding-left: 215px;
+
 
 }
 .logo span {
@@ -131,8 +134,6 @@ color: #2196F3;
     font-size: 26px;
     line-height: 1.17;
     color:white; 
-    padding-left: 215px;
-    padding-top: 60px;
 }
 .downlogo span {
     color: #2196f3;
@@ -303,6 +304,20 @@ color: #2196F3;
 
     color: #212121;
 }
+.link {
+    text-decoration: none;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  ul {
+    margin: 0;
+    padding: 0;
+  }
 .container {
     width: 1200px;
     margin-left: auto;
@@ -405,12 +420,9 @@ border-radius: 0px 0px 4px 4px;
     padding-top: 60px;
     padding-bottom: 60px;
 }
-.downadress-item {
-    margin-top: 9px;
-    padding-left: 215px;
-}
+
 .downlogo {
-    margin: 25674515;
+
     padding-top:60px ;
     padding: left 215px;
     padding-bottom: 161px;
@@ -441,7 +453,7 @@ border-radius: 0px 0px 4px 4px;
     margin: -15px;
 }
 .portfolio-item {
-    margin: 12px;
+    margin: 15px;
   }
   .portfolio-case {
     border: 1px solid #eeeeee;
