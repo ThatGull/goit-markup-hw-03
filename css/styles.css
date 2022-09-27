@@ -93,6 +93,11 @@ color: #2196F3;
 }
  .downside {
     background: #2F303A;
+    position: absolute;
+width: 1600px;
+height: 252px;
+left: 0px;
+top: 1628px;
 }
 .downadress {
     font-family: 'Roboto';
