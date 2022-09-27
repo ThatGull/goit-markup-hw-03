@@ -405,6 +405,9 @@ color: #2196F3;
 }
 .downlogo {
     margin: 25674515;
+    padding-top:60px ;
+    padding: left 215px;
+    padding-bottom: 161px;
 }
 .topbutton-menu {
     display: flex;
