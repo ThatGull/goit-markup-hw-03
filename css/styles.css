@@ -131,6 +131,8 @@ color: #2196F3;
     font-size: 26px;
     line-height: 1.17;
     color:white; 
+    padding-left: 215px;
+    padding-top: 60px;
 }
 .downlogo span {
     color: #2196f3;
@@ -403,6 +405,7 @@ color: #2196F3;
 }
 .downadress-item {
     margin-top: 9px;
+    padding-left: 215px;
 }
 .downlogo {
     margin: 25674515;
